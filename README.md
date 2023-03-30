@@ -20,6 +20,8 @@
    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCelestino&layout=compact">
     <img heigth="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCelestino&theme=radical&layout=compact">
   </picture>
+   
+   
 </div>
 
 <div style="display: inline_block"><br>
@@ -52,6 +54,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErickCelestino/ErickCelestino/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErickCelestino/ErickCelestino/output/github-snake.svg" />
-  ![Snake animation](https://github.com/ErickCelestino/ErickCelestino/blob/output/github-contribution-grid-snake.svg)
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErickCelestino/ErickCelestino/output/github-snake.svg" /> 
 </picture>
+
+ 
