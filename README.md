@@ -1,8 +1,9 @@
 # Olá, Eu sou Erick 👽
 
-- Atualmente trabalho com analise de dados
-- Estudo bastante arquitetura de software, Typescript, Flutter dentre outros 🐱‍🏍
-- Contate-me no e-mail: erickcelestimo@gmail.com
+- 🔬 Atualmente trabalho com analise de dados
+- 🐱‍🏍 Estudo bastante arquitetura de software, Typescript, Flutter dentre outros 
+- 🎭 Estou atualmente estudando a ferramenta NX utilizando ela para criar monorepo
+- 📧 Contate-me no e-mail: erickcelestimo@gmail.com
 
 <div > 
   <a href="https://github.com/ErickCelestino">
@@ -32,8 +33,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/express-original-wordmark.svg">
 
 ##
 
