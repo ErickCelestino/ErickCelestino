@@ -58,4 +58,4 @@
 </picture>
 
  
- ![Snake animation](https://github.com/ThiagoBussola/ThiagoBussola/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ErickCelestino/ErickCelestino/blob/output/github-contribution-grid-snake.svg)
