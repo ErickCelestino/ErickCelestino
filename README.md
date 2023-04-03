@@ -1,6 +1,6 @@
 # Olá, Eu sou Erick 👽
 
-- 🔬 Atualmente trabalho com analise de processo
+- 🔬 Atualmente trabalho com analise de processos
 - 🧙‍♂️ Mas com o foco em me tornar um desenvolvedor Full Cycle 
 - 🐱‍🏍 Estudo bastante arquitetura de software, Typescript, Flutter dentre outros 
 - 🎭 Estou atualmente estudando a ferramenta NX utilizando ela para criar monorepo
