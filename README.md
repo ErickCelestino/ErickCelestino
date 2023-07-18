@@ -1,8 +1,8 @@
 # Olá, Eu sou Erick  <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e4780557fe6fe09949ffab8ac5418563a3e11578fa2&rid=giphy.gif" width="48" height="48" />
-- 📝 Cursando o 7º semestre de Engenharia de Software - UniCesumar
+- 📝 Cursando o ultimo semestre de Engenharia de Software - UniCesumar
 - 🔬 Atualmente trabalho com analise de processos
 - 🧙‍♂️ Mas com o foco em me tornar um desenvolvedor Full Cycle 
-- 🐱‍🏍 Estudo bastante arquitetura de software, Typescript, Flutter dentre outros 
+- 🐱‍🏍 Estudo bastante arquitetura de software, TDD, DDD, Clean Architecture, IA, Typescript, Flutter dentre outros 
 - 🎭 Estou atualmente estudando a ferramenta NX utilizando ela para criar monorepo
 - 💻 Contate-me no e-mail: erickcelestimo@gmail.com
 
