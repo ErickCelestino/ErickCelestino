@@ -26,7 +26,7 @@
   
 </div>
 
-  
+<!--   
 ## Tecnologias que estou estudando:
 
   <div style="display: inline_block"><br>
@@ -48,7 +48,7 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
 ##
-
+-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErickCelestino/ErickCelestino/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErickCelestino/ErickCelestino/output/github-snake.svg" />
