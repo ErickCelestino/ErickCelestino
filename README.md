@@ -12,21 +12,20 @@
   <a href="https://www.linkedin.com/in/erick-da-silva-5b02b61a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/erick.celestino.12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-<!-- 
+
 ## Skills:
 
-<!-- 
-<div style="display: inline_block"> 
+<div style="display: inline_block> 
 <a href="https://github.com/ErickCelestino">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ErickCelestino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCelestino&layout=compact&langs_count=7&hide=scss,less,stylus&theme=dracula"/> 
+<!--
   <img height="180em" src='https://github-readme-streak-stats.herokuapp.com?user=ErickCelestino&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D'/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickCelestino&layout=compact&langs_count=7&hide=scss,less,stylus&theme=dracula"/>  
-  
+  -->
 </div>
 
- -->
+
 ## Tecnologias que estou estudando:
 
   <div style="display: inline_block"><br>
