@@ -1,6 +1,6 @@
 # Olá, Eu sou Erick  <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e4780557fe6fe09949ffab8ac5418563a3e11578fa2&rid=giphy.gif" width="48" height="48" />
 - 📝 Formado em Engenharia de Software
-- 🔬 Atualmente trabalho com analise de sistemas
+- 🔬 Atualmente trabalho com analise de dados
 - 🧙‍♂️ Mas com o foco em me tornar um desenvolvedor Full Cycle 
 - 🐱‍🏍 Estudo bastante arquitetura de software, TDD, DDD, Clean Architecture, IA, Typescript, React dentre outros 
 - 🎭 Estou atualmente estudando a ferramenta NX utilizando ela para criar monorepo
